@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 29 Jul 2023 pada 17.26
+-- Waktu pembuatan: 02 Agu 2023 pada 13.27
 -- Versi server: 10.4.27-MariaDB
 -- Versi PHP: 7.4.33
 
@@ -120,14 +120,7 @@ INSERT INTO `users` (`id`, `name`, `username`, `email`, `google_id`, `email_veri
 (2, 'Dr. Rowena Flatley IV', 'monserrate36', 'vergie.haley@example.org', NULL, '2023-07-29 01:57:58', '$2y$10$ExkkLkGLttKzjxMhPwN60uPETjLCaP0ShhgbzCurHRGvoL1KgEt.2', 'user', 'sTLazzwn2k', '2023-07-29 01:57:58', '2023-07-29 01:57:58'),
 (3, 'Theodora Tromp', 'pparker', 'rrussel@example.com', NULL, '2023-07-29 01:57:58', '$2y$10$j3K1q9q8pmQHO1xa5u09GeOGYYpB.3/J7FNNlzUHpxHWGjNNFKYGy', 'user', 'bXAPj2ZYdI', '2023-07-29 01:57:58', '2023-07-29 01:57:58'),
 (4, 'Lawrence Zulauf', 'qgraham', 'kuhn.whitney@example.com', NULL, '2023-07-29 01:57:58', '$2y$10$Fu48DJnyjcEtQdVEwpF2peRLor0jaQaKPcKqAVVgOA23axYG.EWna', 'user', 'hvjU9rFFPP', '2023-07-29 01:57:58', '2023-07-29 01:57:58'),
-(5, 'Mona Pfannerstill', 'weissnat.judson', 'wolff.henri@example.com', NULL, '2023-07-29 01:57:58', '$2y$10$1XWnhmcSfgsdLVI8NK8CEey1.Gc.X/zThUWWjdQIs.13ZYJrBN4TC', 'user', 'sZtiZzUKrh', '2023-07-29 01:57:58', '2023-07-29 01:57:58'),
-(6, 'Muhammad Amin', 'amin.kandangan1@gmail.com', 'amin.kandangan1@gmail.com', '117569066413548024180', NULL, '$2y$10$/4ARJyuMlCjHHe/EMJ9C7ubE6cRKVfRp3EKEA1DMW4tzTESBgK58e', 'user', 'A5Fa8jEgCsR3TcYgtApKysW6ITjrEzTJYFgfMgVVmJOHN1820C76mC0QytDn', '2023-07-29 02:15:47', '2023-07-29 08:03:10'),
-(7, 'Jahrani', 'jahrani@gmail.com', 'jahrani@gmail.com', NULL, NULL, '$2y$10$S3mDe88BYv1rYa9Kd4TK3.AzYewiY8GOwiVCcoNCwmQZCtqPLiDFi', 'user', 'QcfNwOzsJoU3vaJwvvBhgEXD6e4Y9d6grWj2emocFO5oPiut9lQXjdVsE9XZ', '2023-07-29 04:51:24', '2023-07-29 08:16:17'),
-(8, 'Fadhil', 'fadhil@gmail.com', 'fadhil@gmail.com', NULL, NULL, '$2y$10$D14y8pTnCtCV0r.aZ9mcgO8VFjF6e3El/.itY5T2tWlLjh1Q9RPj6', 'user', NULL, '2023-07-29 04:54:20', '2023-07-29 04:54:20'),
-(9, 'Nada', 'nada@gmail.com', 'nada@gmail.com', NULL, NULL, '$2y$10$kVgvbjPx.zb0lL3que3qSu3JdWORCadLkTVCf6NszFdZ4yTv4kMnK', 'user', NULL, '2023-07-29 04:55:23', '2023-07-29 04:55:23'),
-(10, 'Sarah', 'sarah@gmail.com', 'sarah@gmail.com', NULL, NULL, '$2y$10$z4asfRQzTzgA3UP4cequhuhSexVf3RAdvwe78hlHMtoS52db6khpe', 'user', NULL, '2023-07-29 04:58:52', '2023-07-29 04:58:52'),
-(11, 'Ana', 'ana@gmail.com', 'ana@gmail.com', NULL, NULL, '$2y$10$u6BOsEYnqrA57vlMbOiTmuWdIG50SCmk1wgD9g.ThOZQtypizvBFG', 'user', NULL, '2023-07-29 05:04:16', '2023-07-29 05:04:16'),
-(12, 'Jamal', 'jamal@gmail.com', 'jamal@gmail.com', NULL, NULL, '$2y$10$llDWlhlqYdewBYSMXSKH3OaHARe6c86cT4q6MH7/G8L8XlHjjfC6i', 'user', NULL, '2023-07-29 05:08:29', '2023-07-29 05:08:29');
+(5, 'Mona Pfannerstill', 'weissnat.judson', 'wolff.henri@example.com', NULL, '2023-07-29 01:57:58', '$2y$10$1XWnhmcSfgsdLVI8NK8CEey1.Gc.X/zThUWWjdQIs.13ZYJrBN4TC', 'user', 'sZtiZzUKrh', '2023-07-29 01:57:58', '2023-07-29 01:57:58');
 
 -- --------------------------------------------------------
 
